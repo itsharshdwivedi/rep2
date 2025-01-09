@@ -1,3 +1,1 @@
-content 1
-
-conflicting change
+This is a change from feature-branch.
